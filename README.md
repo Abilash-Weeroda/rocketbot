@@ -1,2 +1,2 @@
 # rocketbot
-Sample RocketBot Bots , Public workspace
+Sample RocketBot Bots , Public workspace.
